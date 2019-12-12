@@ -1,0 +1,81 @@
+﻿@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Arvo:700");
+
+
+
+h1 {
+    font-family: fenway-park-jf, sans-serif;
+    text-shadow: 0.03em 0.05em 0 rgba(213, 163, 50, 0.9);
+    color: #222629;
+    letter-spacing: 3px;
+    font-size: 400%;
+    text-align: center;
+    top: 4em;
+}
+
+
+#secondButton {
+    -moz-transition: all 0.25s ease-in-out;
+    -webkit-transition: all 0.25s ease-in-out;
+    -ms-transition: all 0.25s ease-in-out;
+    transition: all 0.25s ease-in-out;
+    -webkit-appearance: none;
+    position: relative;
+    display: inline-block;
+    background: #fff;
+    color: #222629 !important;
+    text-transform: uppercase;
+    border-radius: 4px;
+    border: 0;
+    outline: 0;
+    font-size: 1em;
+    box-shadow: 0.125em 0.175em 0 0 rgba(0, 0, 0, 0.125);
+    font-weight: 600;
+    text-align: center;
+    font-size: 0.85em;
+    letter-spacing: 2px;
+    padding: 0.85em 2.75em 0.85em 2.75em;
+}
+
+  
+
+.links {
+    position: center;
+    top: 4em;
+    width: 100%;
+    cursor: default;
+    align-content: center;
+    text-align: center;
+    font-size: 90%;
+    font-family: sans-serif;
+    border-style: none;
+    padding-top: 2.5em;
+   
+}
+    .links > ul > li {
+        padding-right: 2em; 
+        border: 0;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-weight: 100;
+        color: #777;
+        outline: 0;
+        display: inline-block;
+         
+        }
+
+        .links > ul > li:hover {
+            color:#ED786A;
+        }
+
+#subhead {
+    letter-spacing: 4px;
+    font-size: 2em;
+    line-height: 1.325em;
+    margin: 1.25em 0 0 0;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 80%;
+    color: #777;
+    text-transform: uppercase;
+
+}
